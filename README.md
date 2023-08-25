@@ -31,3 +31,8 @@ By default, whenever you bring down the Docker network, your MySQL data will be 
 volumes:
   - ./mysql:/var/lib/mysql
 ```
+
+
+Credits: [aschmelyun](https://github.com/aschmelyun)
+
+src: https://github.com/aschmelyun/docker-compose-wordpress
